@@ -1,126 +1,44 @@
 # Day 2 - Java & DBMS Learning
 
-## 📅 Date
+📅 **Date:** 04 August 2026
 
-04 August 2026
+## 📚 Topics Covered
 
----
+### Java
 
-# 📚 Topics Learned
-
-## Java
-
-* Classes and Objects
-* Constructors
-* Encapsulation
-* Inheritance
+* Classes, Objects & Constructors
+* Encapsulation & Inheritance
 * Object Class
-* Common Object Class Methods
-* Arrays
-
-  * 1D Array
-  * 2D Array
-  * Jagged Array
-* String Class
+* Arrays (1D, 2D, Jagged)
+* Strings
 * Exception Handling
+* Collections (Queue, Deque, PriorityQueue)
 
-  * Checked Exceptions
-  * Unchecked Exceptions
-  * Error Class
-  * Exception Hierarchy
-* Java Collections Framework
-
-  * Queue
-  * Deque
-  * ArrayDeque
-  * LinkedList
-  * PriorityQueue
-
----
-
-## DBMS
+### DBMS
 
 * DBMS Architecture
-* Frontend → Backend → Database Flow
-* SQL Basics
-* Creating Databases
-* Creating Tables
-* Inserting Records
-* Retrieving Data using `SELECT`
+* SQL Basics (CREATE, INSERT, SELECT)
 * SQL Constraints
-
-  * PRIMARY KEY
-  * NOT NULL
-  * UNIQUE
-  * DEFAULT
-  * CHECK
 * CRUD Operations
-* Normalization
+* Normalization (1NF, 2NF, 3NF)
 
-  * UNF
-  * 1NF
-  * 2NF
-  * 3NF
+## 💻 Programs Practiced
 
----
+* Arithmetic Operations
+* Even/Odd & Vowel Checker
+* Arrays & Strings
+* Queue, Deque & PriorityQueue
+* Exception Handling
+* Patient & Product Table Queries
+* Employee Constraints
+* Normalization Examples
 
-# 💻 Programs Executed
-
-### Java Programs
-
-* Day Validator using `switch`
-* Sum of Two Numbers
-* Subtraction
-* Multiplication
-* Even/Odd Number
-* Vowel Checker
-* One-Dimensional Array
-* Two-Dimensional Array
-* Jagged Array
-* String Operations
-* Queue Example
-* Deque Example
-* PriorityQueue Example
-* Exception Handling (`try-catch-finally`)
-
-### SQL Programs
-
-* Create `patient` table
-* Insert patient records
-* Display all records
-* Display selected columns
-* Display full names using `CONCAT()`
-* Increment age using `age + 2`
-* Create `product` table
-* Insert product records
-* Display product details
-* Employee table with constraints
-* Normalization examples (1NF, 2NF, 3NF)
-
----
-
-# 🛠️ Technologies Used
+## 🛠️ Tools
 
 * Java
-* JDK
 * Eclipse IDE
 * MySQL
-* SQL
 
----
+## 📌 Summary
 
-# 🎯 Key Concepts Understood
-
-* Object-Oriented Programming (OOP)
-* Arrays and Strings
-* Exception Handling
-* Collection Framework
-* SQL Queries
-* Database Constraints
-* Database Normalization
-
----
-
-# 📌 Outcome
-
-Successfully practiced Java programming fundamentals and DBMS concepts by writing and executing programs, learning exception handling, working with collections, performing SQL operations, and understanding database normalization.
+Practiced Java OOP, Collections, Exception Handling, SQL queries, database constraints, and normalization through hands-on coding.
